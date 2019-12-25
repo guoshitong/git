@@ -15,6 +15,9 @@ target/
 .mvn
 
 
+*.asd
+
+
 
 ### IntelliJ IDEA ###
 .idea
