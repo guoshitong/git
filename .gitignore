@@ -4,7 +4,11 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+<<<<<<< HEAD
 #### STS ###
+=======
+### STS ##################
+>>>>>>> dev
 .apt_generated
 .classpath
 .factorypath
@@ -12,7 +16,11 @@ target/
 .settings
 .springBeans
 .sts4-cache
-.mvn
+
+
+
+
+*.asd
 
 
 
@@ -21,6 +29,7 @@ target/
 *.iws
 *.iml
 *.ipr
+*.mvn
 
 ### NetBeans ###
 /nbproject/private/
