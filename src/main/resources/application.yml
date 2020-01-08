@@ -1,3 +1,9 @@
 
 server:
-  port: 8888
+  port: 8080
+
+spring:
+  redis:
+    host: 47.98.144.1
+    port: 6379
+    password:
